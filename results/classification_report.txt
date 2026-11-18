@@ -1,0 +1,10 @@
+precision recall f1-score support
+N 1.00 0.97 0.99 17556
+S 0.63 0.93 0.75 537
+V 0.95 0.97 0.96 1444
+F 0.40 0.92 0.56 160
+Q 0.99 1.00 0.99 1196
+accuracy 0.97 20993
+macro avg 0.79 0.96 0.83 20993
+weighted avg 0.98 0.97 0.97 20993
+Test Accuracy: 96.94% (Epoch 15)
